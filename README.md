@@ -213,3 +213,4 @@ University of New Brunswick.
 **Project:** X-HIDS  
 **Domain:** Cybersecurity and Network Intrusion Detection  
 **Repository:** https://github.com/Bhavya227/XHIDS-cs
+**App Link:**https://xhids-intrusion-detection.streamlit.app/
