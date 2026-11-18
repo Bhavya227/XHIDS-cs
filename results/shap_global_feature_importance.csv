@@ -1,0 +1,72 @@
+Feature,Mean_Absolute_SHAP
+Destination Port,0.98385555
+Source Port,0.72440565
+Init_Win_bytes_backward,0.51081496
+min_seg_size_forward,0.3503016
+Bwd Packets/s,0.32006067
+Init_Win_bytes_forward,0.2957955
+Bwd Packet Length Max,0.25232774
+Flow IAT Min,0.17517377
+Fwd IAT Min,0.17431955
+Flow Bytes/s,0.16327095
+Flow IAT Mean,0.13626422
+Bwd Packet Length Mean,0.12196394
+Fwd IAT Std,0.12006902
+Fwd Packet Length Std,0.1150378
+Flow Duration,0.11018749
+Fwd Packet Length Mean,0.102083236
+Packet Length Mean,0.09782562
+Total Length of Bwd Packets,0.082126774
+Average Packet Size,0.076928884
+Idle Min,0.07488458
+PSH Flag Count,0.07410284
+Flow IAT Std,0.07082933
+Max Packet Length,0.06867883
+Total Length of Fwd Packets,0.06836809
+Fwd Header Length,0.06794658
+Flow IAT Max,0.06684597
+Fwd Packets/s,0.06392583
+Fwd Packet Length Max,0.062933885
+Bwd Packet Length Min,0.06234862
+Fwd IAT Mean,0.05901081
+Fwd IAT Total,0.054621603
+Bwd Packet Length Std,0.054203924
+Fwd Packet Length Min,0.053314615
+Min Packet Length,0.052449852
+Total Backward Packets,0.051485468
+Flow Packets/s,0.048336368
+Down/Up Ratio,0.046385378
+Bwd IAT Std,0.045376047
+Packet Length Std,0.045192268
+URG Flag Count,0.040812954
+Bwd IAT Min,0.039494842
+Bwd IAT Mean,0.038999464
+Bwd Header Length,0.03812419
+Total Fwd Packets,0.033341527
+Fwd IAT Max,0.032681935
+act_data_pkt_fwd,0.031653985
+Avg Bwd Segment Size,0.029173445
+Avg Fwd Segment Size,0.023684442
+Bwd IAT Max,0.020751234
+Bwd IAT Total,0.019309385
+ACK Flag Count,0.016959324
+Active Min,0.016262421
+Idle Mean,0.014884958
+Subflow Fwd Bytes,0.01383627
+Subflow Bwd Bytes,0.012958122
+FIN Flag Count,0.011593312
+Fwd PSH Flags,0.01133854
+Packet Length Variance,0.009691969
+Subflow Bwd Packets,0.009532794
+Idle Max,0.0068565947
+Active Max,0.005952415
+Subflow Fwd Packets,0.0032606984
+SYN Flag Count,0.0028477993
+Active Std,0.002594082
+Active Mean,0.001757527
+Protocol,0.00084140943
+Idle Std,0.00069936947
+Fwd URG Flags,0.0
+CWE Flag Count,0.0
+RST Flag Count,0.0
+ECE Flag Count,0.0

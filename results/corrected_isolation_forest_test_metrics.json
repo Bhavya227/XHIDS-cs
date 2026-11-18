@@ -1,0 +1,25 @@
+{
+    "experiment": "Corrected Isolation Forest Independent Test Evaluation",
+    "score_function": "score_samples",
+    "threshold": -0.6282147243193423,
+    "accuracy": 0.4109783845278726,
+    "precision": 0.9519119351100811,
+    "recall": 0.09063327449249779,
+    "f1": 0.1655082099325073,
+    "false_positive_rate": 0.0083,
+    "detection_rate": 0.09063327449249779,
+    "confusion_matrix": [
+        [
+            9917,
+            83
+        ],
+        [
+            16485,
+            1643
+        ]
+    ],
+    "true_negative": 9917,
+    "false_positive": 83,
+    "false_negative": 16485,
+    "true_positive": 1643
+}

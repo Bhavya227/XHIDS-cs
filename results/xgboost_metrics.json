@@ -1,0 +1,16 @@
+{
+    "model": "XGBoost",
+    "xgboost_version": "3.4.1",
+    "training_records": 117504,
+    "validation_records": 28130,
+    "features": 71,
+    "classes": 15,
+    "accuracy": 0.997369356558834,
+    "precision_macro": 0.9578723188895577,
+    "recall_macro": 0.9797913755944857,
+    "f1_macro": 0.9672207629694307,
+    "f1_weighted": 0.9974094230268219,
+    "balanced_accuracy": 0.9797913755944857,
+    "training_time_seconds": 106.81328916549683,
+    "validation_inference_time_seconds": 1.4283037185668945
+}

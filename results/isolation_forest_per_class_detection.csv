@@ -1,0 +1,16 @@
+class,records,anomalies_detected,detection_rate
+BENIGN,10000,113,0.0113
+Bot,295,2,0.006779661016949152
+DDoS,5000,333,0.0666
+DoS GoldenEye,500,0,0.0
+DoS Hulk,5000,1205,0.241
+DoS Slowhttptest,500,1,0.002
+DoS slowloris,500,16,0.032
+FTP-Patator,500,0,0.0
+Heartbleed,2,2,1.0
+Infiltration,6,2,0.3333333333333333
+PortScan,5000,0,0.0
+SSH-Patator,500,0,0.0
+Web Attack - Brute Force,226,0,0.0
+Web Attack - Sql Injection,3,0,0.0
+Web Attack - XSS,98,0,0.0

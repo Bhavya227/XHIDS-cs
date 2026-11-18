@@ -1,0 +1,11 @@
+{
+    "held_out_attack": "DoS Hulk",
+    "anomaly_weights": {
+        "isolation_forest": 0.5,
+        "autoencoder": 0.5
+    },
+    "combined_anomaly_threshold": 19.96084749698639,
+    "threshold_method": "99th percentile of BENIGN training calibration scores",
+    "calibration_false_positive_rate": 0.0099,
+    "supervised_models_excluded_heldout_class": true
+}

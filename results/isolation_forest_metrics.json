@@ -1,0 +1,19 @@
+{
+    "model": "Isolation Forest",
+    "training_data": "BENIGN only",
+    "fitting_records": 40000,
+    "calibration_records": 10000,
+    "validation_records": 28130,
+    "features": 71,
+    "threshold_percentile": 1.0,
+    "anomaly_threshold": -0.6282147243193423,
+    "calibration_false_positive_rate": 0.01,
+    "validation_accuracy": 0.4069676501955208,
+    "validation_precision": 0.9324970131421745,
+    "validation_recall": 0.0861003861003861,
+    "validation_f1": 0.15764492021813775,
+    "training_time_seconds": 1.1426377296447754,
+    "validation_inference_time_seconds": 0.9747858047485352,
+    "validation_false_positive_rate": 0.0113,
+    "validation_attack_detection_rate": 0.0861003861003861
+}

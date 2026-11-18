@@ -1,0 +1,30 @@
+{
+    "project": "X-HIDS",
+    "hybrid_risk_weights": {
+        "xgboost": 0.35,
+        "random_forest": 0.15,
+        "isolation_forest": 0.25,
+        "autoencoder": 0.25
+    },
+    "alert_threshold": 40.0,
+    "risk_categories": {
+        "Low": [
+            0,
+            25
+        ],
+        "Medium": [
+            25,
+            50
+        ],
+        "High": [
+            50,
+            75
+        ],
+        "Critical": [
+            75,
+            100
+        ]
+    },
+    "threshold_status": "Provisional; selected using validation data",
+    "final_test_evaluation": "Pending"
+}

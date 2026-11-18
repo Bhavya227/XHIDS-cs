@@ -1,0 +1,10 @@
+{
+    "imputation": "Exact median",
+    "scaling": "StandardScaler",
+    "fit_data": "Training split only",
+    "features": 71,
+    "training_files": 59,
+    "batch_size": 10000,
+    "median_file": "/content/drive/MyDrive/X-HIDS/preprocessing/training_feature_medians.joblib",
+    "scaler_file": "/content/drive/MyDrive/X-HIDS/preprocessing/standard_scaler.joblib"
+}

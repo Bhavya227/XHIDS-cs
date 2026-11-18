@@ -1,0 +1,13 @@
+{
+    "method": "SHAP TreeExplainer",
+    "model": "XGBoost",
+    "explanation_output": "Raw model output (margin)",
+    "sample_records": 500,
+    "feature_count": 71,
+    "actual_class": "PortScan",
+    "predicted_class": "PortScan",
+    "prediction_confidence": 0.999988317489624,
+    "random_seed": 42,
+    "global_importance_file": "shap_global_feature_importance.csv",
+    "individual_explanation_file": "shap_individual_explanation.csv"
+}

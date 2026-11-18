@@ -1,0 +1,36 @@
+{
+    "project": "X-HIDS",
+    "target_column": "Label_Clean",
+    "original_selected_features": 79,
+    "constant_features_to_remove": [
+        "Bwd PSH Flags",
+        "Bwd URG Flags",
+        "Fwd Avg Bytes/Bulk",
+        "Fwd Avg Packets/Bulk",
+        "Fwd Avg Bulk Rate",
+        "Bwd Avg Bytes/Bulk",
+        "Bwd Avg Packets/Bulk",
+        "Bwd Avg Bulk Rate"
+    ],
+    "expected_remaining_features": 71,
+    "negative_to_missing": [
+        "Flow Duration",
+        "Flow Bytes/s",
+        "Flow Packets/s",
+        "Flow IAT Mean",
+        "Flow IAT Max",
+        "Flow IAT Min",
+        "Fwd IAT Min",
+        "Fwd Header Length",
+        "Bwd Header Length",
+        "min_seg_size_forward"
+    ],
+    "preserve_negative_sentinel": [
+        "Init_Win_bytes_forward",
+        "Init_Win_bytes_backward"
+    ],
+    "infinity_handling": "Replace positive and negative infinity with NaN",
+    "missing_value_handling": "Use median imputation fitted only on the training data",
+    "source_files_modified": false,
+    "created_at": "2026-11-17T18:50:55.806110"
+}

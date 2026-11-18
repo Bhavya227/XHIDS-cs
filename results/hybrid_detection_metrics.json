@@ -1,0 +1,21 @@
+{
+    "model": "X-HIDS Hybrid Detection Engine",
+    "validation_records": 28130,
+    "alert_threshold": 40.0,
+    "threshold_selection": "Provisional validation-based operating threshold",
+    "accuracy": 0.998933522929257,
+    "precision": 0.9994481236203091,
+    "recall": 0.9988968560397132,
+    "f1_score": 0.9991724137931034,
+    "false_positive_rate": 0.001,
+    "true_positives": 18110,
+    "true_negatives": 9990,
+    "false_positives": 10,
+    "false_negatives": 20,
+    "risk_distribution": {
+        "Medium": 13301,
+        "Low": 9927,
+        "High": 3622,
+        "Critical": 1280
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "model": "Autoencoder",
+    "training_data": "BENIGN only",
+    "architecture": "71-64-32-16-32-64-71",
+    "fitting_records": 40000,
+    "calibration_records": 10000,
+    "validation_records": 28130,
+    "features": 71,
+    "epochs": 20,
+    "batch_size": 512,
+    "threshold_percentile": 99.0,
+    "anomaly_threshold": 0.7852279865741749,
+    "calibration_false_positive_rate": 0.01,
+    "validation_accuracy": 0.5227159616068254,
+    "validation_precision": 0.9776604386677498,
+    "validation_recall": 0.265526751241037,
+    "validation_f1": 0.4176281773228073,
+    "validation_false_positive_rate": 0.011,
+    "validation_attack_detection_rate": 0.265526751241037,
+    "training_time_seconds": 13.50202989578247,
+    "validation_inference_time_seconds": 0.4444713592529297,
+    "final_training_loss": 0.14035359457731247
+}
